@@ -7,3 +7,4 @@ int main (){
     cout << "hello";
     cout << "I"
 }
+ cout << hello
