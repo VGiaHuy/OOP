@@ -20,4 +20,6 @@ void Date::NhapNgayThangNam(){
     cout<<"Nhap nam: "<<endl;
     cin>>nam;
 }
-void bautao
+void bautaoƠ(){
+    cout<<"Em yêu anh";
+}
