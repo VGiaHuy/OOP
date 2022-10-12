@@ -21,3 +21,16 @@ void Date::NhapNgayThangNam(){
     cin>>nam;
 }
 
+
+
+
+
+huyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+<<<<<<< HEAD
+
+=======
+void Date::XuatNgayThangNam(){
+    cout<<"Thoi gian: "<<ngay<<"/"<<thang<<"/<<nam";
+    cout<<"Lien khung";
+}
+>>>>>>> 057ff55dbb232313bc089dc47462e88bb398def3
