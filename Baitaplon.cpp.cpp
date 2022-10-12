@@ -20,3 +20,6 @@ void Date::NhapNgayThangNam(){
     cout<<"Nhap nam: "<<endl;
     cin>>nam;
 }
+void Date::XuatNgayThangNam(){
+    cout<<"Thoi gian: "<<ngay<<"/"<<thang<<"/<<nam";
+}
