@@ -22,5 +22,5 @@ void Date::NhapNgayThangNam(){
 }
 void Date::XuatNgayThangNam(){
     cout<<"Thoi gian: "<<ngay<<"/"<<thang<<"/<<nam";
-    jjjjjjjj
+    cout<<"Lien khung"
 }
