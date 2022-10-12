@@ -11,4 +11,12 @@ class Date{
     void XuatNgayThangNam();
 
 };
-
+void Date::NhapNgayThangNam(){
+    cout<<endl;
+    cout<<"Nhap ngay: "<<endl;
+    cin>>ngay;
+    cout<<"Nhap thang: "<<endl;
+    cin>>thang;
+    cout<<"Nhap nam: "<<endl;
+    cin>>nam;
+}
